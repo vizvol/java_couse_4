@@ -6,6 +6,8 @@ public class Main {
         String name = "Izvol";
         System.out.println(name);
 
+        System.out.println("Hello? My name is " + name);
+
 
         System.out.println("String ");
 
